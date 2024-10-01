@@ -6,9 +6,6 @@
 //  Modified by Salma Emara on 2024-09-11
 //  Copyright © 2024 Nathan Hung. No rights reserved.
 //
-//  Permission is hereby granted to use this code in ECE244 at
-//  the University of Toronto. It is prohibited to distribute
-//  this code, either publicly or to third parties.
 //
 // ***********  ECE244 Student: DO NOT MODIFY THIS FILE  ***********
 
